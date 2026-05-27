@@ -1058,6 +1058,10 @@
 	path = extensions/devicetree
 	url = https://github.com/anikinmd/zed_devicetree
 
+[submodule "extensions/diff-tool"]
+	path = extensions/diff-tool
+	url = https://github.com/xgfone/zed-diff-tool.git
+
 [submodule "extensions/discord-presence"]
 	path = extensions/discord-presence
 	url = https://github.com/xhyrom/zed-discord-presence
